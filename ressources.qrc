@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file alias="icon.png">pictures/flussicon.png</file>
+        <file alias="nonicon.png">pictures/nonicon.png</file>
+        <file alias="ouiicon.png">pictures/ouiicon.png</file>
+        <file alias="books.png">pictures/books.png</file>
+        <file alias="a_old.png">pictures/a.png</file>
+        <file alias="wuerfel_old.png">pictures/wuerfel.png</file>
+        <file alias="loupe.png">pictures/loupe.png</file>
+        <file alias="suivant.png">pictures/suivant.png</file>
+        <file alias="precedant.png">pictures/precedant.png</file>
+        <file alias="a.png">pictures/a_vert.png</file>
+        <file alias="wuerfel.png">pictures/wuerfel_vert.png</file>
+    </qresource>
+    <qresource prefix="/flags">
+        <file alias="ch.png">pictures/flags/ch.png</file>
+        <file alias="de.png">pictures/flags/de.png</file>
+        <file alias="en.png">pictures/flags/en.png</file>
+        <file alias="es.png">pictures/flags/es.png</file>
+        <file alias="fr.png">pictures/flags/fr.png</file>
+        <file alias="it.png">pictures/flags/it.png</file>
+        <file alias="sh.png">pictures/flags/sh.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file alias="fluessig_en.qm">languages/fluessig_en.qm</file>
+        <file alias="fluessig_fr.qm">languages/fluessig_fr.qm</file>
+    </qresource>
+</RCC>
